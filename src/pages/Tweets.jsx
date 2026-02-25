@@ -32,7 +32,7 @@ export default function Tweets() {
       <Navbar onRefresh={fetchTweets} />
 
       <div style={{ padding: "20px" }}>
-        <h2>All Tweets</h2>
+        <h2>All gdfhgdghyb</h2>
 
         {loading && <p>Loading tweets...</p>}
 
